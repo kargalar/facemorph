@@ -1,0 +1,27 @@
+{
+  "firestore": {
+    "rules": "firestore.rules",
+    "indexes": "firestore.indexes.json"
+  },
+  "functions": {
+    "source": "firebase/functions",
+    "predeploy": "npm --prefix \"$RESOURCE_DIR\" run build"
+  },
+  "hosting": {
+    "public": "firebase/hosting",
+    "cleanUrls": true,
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  },
+  "auth": {
+    "providers": {
+      "googleSignIn": {
+        "oAuthBrandDisplayName": "FaceMorph",
+        "supportEmail": "m.islam0422@gmail.com"
+      }
+    }
+  }
+}

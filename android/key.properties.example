@@ -1,0 +1,6 @@
+# Copy this file to key.properties and replace every value with your local
+# release upload-key settings. Never commit key.properties or a .jks file.
+storeFile=C:/path/to/oneframe-upload.jks
+storePassword=replace-with-keystore-password
+keyAlias=replace-with-key-alias
+keyPassword=replace-with-key-password

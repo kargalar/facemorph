@@ -1,0 +1,30 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "photos",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {"fieldPath": "ownerId", "order": "ASCENDING"},
+        {"fieldPath": "capturedAt", "order": "DESCENDING"}
+      ]
+    },
+    {
+      "collectionGroup": "photos",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {"fieldPath": "isPublic", "order": "ASCENDING"},
+        {"fieldPath": "capturedAt", "order": "DESCENDING"}
+      ]
+    },
+    {
+      "collectionGroup": "photos",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {"fieldPath": "ownerId", "order": "ASCENDING"},
+        {"fieldPath": "isPublic", "order": "ASCENDING"},
+        {"fieldPath": "capturedAt", "order": "DESCENDING"}
+      ]
+    }
+  ],
+  "fieldOverrides": []
+}

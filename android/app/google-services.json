@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "296689147814",
+    "project_id": "phototimelapse-20260901",
+    "storage_bucket": "phototimelapse-20260901.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296689147814:android:af4e298405d417b252f967",
+        "android_client_info": {
+          "package_name": "app.facemorph"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "296689147814-2k4j95jcvvk8sp9lg7i2mmnoaouseeia.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.facemorph",
+            "certificate_hash": "79597b3f510abdc5ae040ee6d275ee362fc7963d"
+          }
+        },
+        {
+          "client_id": "296689147814-v8vbbbgr48etftpnd589q92s0hph334a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXpL4VKc63spBM9ScZFqxdSQLXBWuqzO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "296689147814-v8vbbbgr48etftpnd589q92s0hph334a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "296689147814-13f72ed6q7eq0ormmgo0o73p7bkc0eb7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kargalar.phototimelapse"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296689147814:android:effc309ace9ac83f52f967",
+        "android_client_info": {
+          "package_name": "com.kargalar.phototimelapse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "296689147814-1c1p2krnu9k9cf68gnf9e4s9npqr8vir.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kargalar.phototimelapse",
+            "certificate_hash": "b8ed071564bc46c72cc031b90599023ac040e2d0"
+          }
+        },
+        {
+          "client_id": "296689147814-9se8i4uupau2v3qkvllvgi1p32n5ij5h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kargalar.phototimelapse",
+            "certificate_hash": "79597b3f510abdc5ae040ee6d275ee362fc7963d"
+          }
+        },
+        {
+          "client_id": "296689147814-v8vbbbgr48etftpnd589q92s0hph334a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXpL4VKc63spBM9ScZFqxdSQLXBWuqzO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "296689147814-v8vbbbgr48etftpnd589q92s0hph334a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "296689147814-13f72ed6q7eq0ormmgo0o73p7bkc0eb7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kargalar.phototimelapse"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
